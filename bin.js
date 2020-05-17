@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 'use strict'
-const concat = require('./index.js');
+const concat = require('ganescha-concat');
 const fs = require('fs');
 const [, output, ...files] = process.argv;
 
