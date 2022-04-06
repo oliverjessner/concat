@@ -1,4 +1,4 @@
-# concat
+# Ganescha-concat
 A simple minfied port of concat. 
 No extras so small an simple as posible.
 Only `678 B`
